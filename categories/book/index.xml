@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Chaotic Loot</title>
+    <link>/categories/book/</link>
+    <description>Recent content in Book on Chaotic Loot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating “The Great Grape Run”</title>
+      <link>/blog/creating-run/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/creating-run/</guid>
+      <description>&lt;p&gt;Bringing an adventure to life is always a challenge, but “The Great Grape Run” was a particularly fun and chaotic experience. From the initial spark of inspiration to finalizing stat blocks, this adventure took shape through a mix of creative brainstorming, thematic exploration, and mechanical fine-tuning. Here’s a look into my process of designing this vineyard-filled escapade!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
